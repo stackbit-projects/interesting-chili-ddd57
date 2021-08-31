@@ -34,7 +34,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-1.jpg
+        image: /images/08d911df-0e02-4522-88de-d6b7cdf7421e (3).JPEG
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
